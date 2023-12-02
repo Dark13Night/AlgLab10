@@ -1,0 +1,11 @@
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\bin\Start with pause\net6.0\TicketsLibrary.deps.json
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\bin\Start with pause\net6.0\TicketsLibrary.dll
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\bin\Start with pause\net6.0\TicketsLibrary.pdb
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.AssemblyInfoInputs.cache
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.AssemblyInfo.cs
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.csproj.CoreCompileInputs.cache
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.dll
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\refint\TicketsLibrary.dll
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\TicketsLibrary.pdb
+D:\Labs\Lab310\C-lab-10\TicketsLibrary\obj\Start with pause\net6.0\ref\TicketsLibrary.dll
